@@ -1,0 +1,6 @@
+{
+  "name": "Alok Masterbatches - NPD Management System",
+  "description": "Enterprise NPD tracking, turnaround time (TAT) monitoring, customer trial feedback, and redevelopment rate analysis for Alok Masterbatches Pvt. Ltd.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
